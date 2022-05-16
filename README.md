@@ -25,10 +25,10 @@ Ou a ferramenta de sua prefrência
 Para iniciar o desenvolvimento, é necessário clonar o projeto do GitHub em um diretório segundo as especificações a seguir:
 ```shell
 Caso esteja usando o laragon entre em cd "C:\laragon\www "  e abra o cmd ou terminal nesta pasta e cole o comando a seguir  
-git clone https://github.com/KSouzaEng/ironbank_api.git
+git clone https://github.com/KSouzaEng/b_community.git
 
 Caso esteja usando o laragon entre em cd "C:\xampp\htdocs"  e abra o cmd ou terminal nesta pasta e cole o comando a seguir
-git clone https://github.com/KSouzaEng/ironbank_api.git
+git clone https://github.com/KSouzaEng/b_community.git
 ```
 ##  Configurando a aplicação
 
@@ -61,22 +61,14 @@ DB_PASSWORD=
 
 Para gerar as tabelas do banco de dados é necessário executar o comando a seguir.
 ```shell
-php artisan migrate --seed
+php artisan migrate
 ```
-OBS: A flag --seed é usada para inserir usuários fakes na tabela de users.
 
-Para gerar o token jwt que permite fazer a conexão com o front da aplicação
-```shell
-php artisan jwt:secret
-```
  Para executar a apliacação
 ```shell
 php artisan serve
 ```
-## Documentação API
 
-
-- [Ir para a documentação](https://github.com/KSouzaEng/api-documentation/blob/master/README.md)
 
 ## Melhorias
 
