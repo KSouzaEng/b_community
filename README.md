@@ -6,7 +6,7 @@ Esta feature tem como objetivo ilustrar o cadastro de usuários em um sistema, c
 
 ## Construção da API
 
-- Laravel 8.0.
+- Laravel 9.0.
 - PHP ^8.1.2
 -  Apache 2.4.52
 -  MariaDB 10.4.22
