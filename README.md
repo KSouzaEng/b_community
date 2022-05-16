@@ -1,8 +1,8 @@
-<p align="center"><strong>Investiments API</strong></p>
+<p align="center"><strong>Bemol Community</strong></p>
 
-## Sobre Investiments API
+## Sobre
 
-Esta api tem como objetivo simular um sistema de investimentos, por meio de suas funções é possível fazer investimento,visualizar a lista de investimentos, obter informações sobre o ganho do investimento, bem como o processo de fazer retiradas.
+Esta feature tem como objetivo ilustrar o cadastro de usuários em um sistema, com a finalidade de posteriormente o mesmo ter acesso ao sistema de comunicação da empresa.
 
 ## Construção da API
 
@@ -15,7 +15,7 @@ Esta api tem como objetivo simular um sistema de investimentos, por meio de suas
 ## Ferramentas para executar o projeto
 
 Para executar o projeto, será necessário instalar os seguintes programas:
-- [XAMPP - versão 8.1.2 / PHP 8.1.2: Usado para iniciar o servidor web e fazer o gerenciamento do banco de dados (PHP embutido, MySQL  e Composer)](https://www.apachefriends.org/download.html)
+- [Laragon : Usado para iniciar o servidor web e fazer o gerenciamento do banco de dados (PHP embutido, MySQL  e Composer)](https://laragon.org/download/index.html)
 - [Visual Studio Code: Para desenvolvimento do projeto (ou editor de sua preferência)](https://code.visualstudio.com/download)
 Ou a ferramenta de sua prefrência
 
