@@ -72,4 +72,4 @@ php artisan serve
 
 ## Melhorias
 
-- Como melhoria do projeto seria interesante expandir o projeto inserindo mais funções, tais como função de listagem de ganhos mensais e também possibilitar a transferência dos ganhos para uma conta.
+- Como melhoria do projeto seria interesante expandir o projeto inserindo mais funções, tais como redirecionamento para o canal de atendimento, autenticação do usuário no sistema após o cadastro, listagem de informações do perfil do usuário.
